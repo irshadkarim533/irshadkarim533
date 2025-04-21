@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Your software engineer]
 
 🚀 Full-stack developer | AI Automation Specialist | API Engineer  
 🧠 Building smart tools, efficient systems, and powerful automations.
